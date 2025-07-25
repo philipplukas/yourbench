@@ -9,7 +9,7 @@ authors = [
 ]
 description = "Dynamic Evaluation Set Generation with Large Language Models"
 readme = "README.md"
-requires-python = ">=3.12, <3.13"
+requires-python = ">=3.10, <3.13"
 dependencies = [
     "asyncio>=3.4.3",
     "click>=8.1.7",
